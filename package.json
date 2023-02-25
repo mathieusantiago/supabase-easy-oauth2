@@ -1,6 +1,6 @@
 {
-  "name": "auto-oauth-supabase",
-  "version": "1.0.1",
+  "name": "auto-oauth2-supabase",
+  "version": "1.0.0",
   "description": "AutoOAuth_Supabase",
   "main": "index.js",
   "scripts": {
