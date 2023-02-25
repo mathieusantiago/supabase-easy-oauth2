@@ -1,18 +1,12 @@
 {
-  "name": "auto-oauth2-supabase",
-  "version": "1.0.0",
-  "description": "AutoOAuth_Supabase",
+  "name": "supabase-easy-oauth2",
+  "version": "1.0.2",
+  "description": "This npm package simplifies authentication with Supabase Auth2, making it easier to connect with popular social media platforms such as Google, GitHub, Facebook, Twitter, and more.easy",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "Mathieu Santiago",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@supabase/supabase-js": "^2.8.0"
-  },
-  "devDependencies": {
-    "typescript": "^4.9.5"
   }
 }
